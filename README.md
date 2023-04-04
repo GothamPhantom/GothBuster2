@@ -7,21 +7,21 @@ GothBuster2 is basically a directory scanner/finder. It works like this:
 4. This eases users instead of manually typing each word into the browser search bar.
 <hr>
 <b>Enter URL input from the user:</b>
-<img src="https://i.imgur.com/Ns7P99f.png">
+<img src="https://raw.githubusercontent.com/GothamPhantom/GothBuster2/main/images/GothBuster2%20001.png?token=GHSAT0AAAAAACA3XU6S5ZKZE2VMO7G3A5OQZBMV5AQ">
 <br>
 <b>Enter wordlist path</b>
-<img src="https://i.imgur.com/bOZbH7X.png">
+<img src="https://raw.githubusercontent.com/GothamPhantom/GothBuster2/main/images/GothBuster2%20002.png?token=GHSAT0AAAAAACA3XU6SN2QWU7WARAZH3XQGZBMV6JA">
 <br>
 <b>Example of wordlist path. Try to locate your built-in wordlist path using the command `locate {wordlist name}.txt`:</b>
-<img src="https://i.imgur.com/gPeWPuH.png">
+<img src="https://raw.githubusercontent.com/GothamPhantom/GothBuster2/main/images/GothBuster2%20003.png?token=GHSAT0AAAAAACA3XU6SICQNCEFGXZD5UI4EZBMV6WQ">
 <br>
 <b>Scanning directories:</b>
-<img src="https://i.imgur.com/L3Md71W.png">
-<img src="https://i.imgur.com/K20tObe.gif">
+<img src="https://raw.githubusercontent.com/GothamPhantom/GothBuster2/main/images/GothBuster2%20004.png?token=GHSAT0AAAAAACA3XU6TIYZOFOMXS7T4FPZIZBMV7DA">
+<img src="https://raw.githubusercontent.com/GothamPhantom/GothBuster2/main/images/GothBuster2%20005.gif?token=GHSAT0AAAAAACA3XU6TX6QNLWKJSZBHQ7GEZBMV7PA">
 <br>
 <b>Don3!</b>
-<img src="https://i.imgur.com/hJESAdg.png">
-<img src="https://i.imgur.com/glrnRPw.gif">
+<img src="https://raw.githubusercontent.com/GothamPhantom/GothBuster2/main/images/GothBuster2%20006.png?token=GHSAT0AAAAAACA3XU6T6RHZ4QU6RHTMF7RYZBMV76Q">
+<img src="https://raw.githubusercontent.com/GothamPhantom/GothBuster2/main/images/GothBuster2%20007.gif?token=GHSAT0AAAAAACA3XU6S3KEIXR764K4K3ZZEZBMWAKA">
 <hr>
 <h2>How to install and run?</h2>
 You can clone the git repo. Here's how you run it:
