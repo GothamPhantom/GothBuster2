@@ -26,7 +26,7 @@ GothBuster2 is basically a directory scanner/finder. It works like this:
 <h2>How to install and run?</h2>
 You can clone the git repo. Here's how you run it:
 <br>
-`git clone https://github.com/GothamPhantom/GothBuster2`
+`git clone https://github.com/GothamPhantom/GothBuster2.git`
 <br>
 `cd GothBuster2`
 <br>
